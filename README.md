@@ -306,17 +306,29 @@ POST /api/boards/:boardId/ai/summary
 
 Add screenshots here.
 
-```
-Home Page
+# 📸 Screenshots
 
-Board Dashboard
+## 🏠 Home Page
 
-Task Management
+<img width="100%" alt="Home Page" src="https://github.com/user-attachments/assets/604ee164-5050-479d-bc83-830957184b17" />
 
-AI Task Generation
+---
 
-Real-Time Collaboration
-```
+## 📋 Board Dashboard
+
+<img width="100%" alt="Board Dashboard" src="https://github.com/user-attachments/assets/b58281a1-0573-4b9d-96cd-2df9718bace2" />
+
+---
+
+## ✅ Task Management
+
+<img width="100%" alt="Task Management" src="https://github.com/user-attachments/assets/4214f0af-a262-4fa5-8873-c48cbf7505f7" />
+
+---
+
+## 🤖 AI Task Generation
+
+<img width="100%" alt="AI Task Generation" src="https://github.com/user-attachments/assets/c6a58d33-e1c5-477a-ad52-321a8e5e65ba" />
 
 ---
 
